@@ -1,4 +1,4 @@
-# diablo
+# Diablo 4 - Consuming API
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
